@@ -1,0 +1,11 @@
+﻿  Json.cpp
+c:\users\谷瑾之\desktop\project\jsonparser\jsonparser\json.cpp(104): warning C4305: “参数”: 从“int”到“char”截断
+c:\users\谷瑾之\desktop\project\jsonparser\jsonparser\json.cpp(104): warning C4309: “参数”: 截断常量值
+c:\users\谷瑾之\desktop\project\jsonparser\jsonparser\json.cpp(229): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\谷瑾之\desktop\project\jsonparser\jsonparser\json.cpp(361): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  JsonParser.cpp
+  Reader.cpp
+c:\users\谷瑾之\desktop\project\jsonparser\jsonparser\reader.cpp(10): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\谷瑾之\desktop\project\jsonparser\jsonparser\reader.cpp(23): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  JsonParser.vcxproj -> C:\Users\谷瑾之\Desktop\project\JsonParser\x64\Debug\JsonParser.exe
